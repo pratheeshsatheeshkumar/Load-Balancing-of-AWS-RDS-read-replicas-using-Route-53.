@@ -95,3 +95,7 @@ You must dig the URL to find the responding replica. The endpoints of either rep
 I hope this has given you a better understanding of RDS load balancing.  
 Please share your thoughts and correct me if you find any mistakes.  
 Thank you.
+
+**Read my article in medium.com.**
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/0" alt="Recent Article 0">
