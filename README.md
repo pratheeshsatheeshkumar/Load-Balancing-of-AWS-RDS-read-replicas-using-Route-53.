@@ -97,7 +97,7 @@ Please share your thoughts and correct me if you find any mistakes.
 Thank you.
 [Pratheesh Satheesh Kumar](https://www.linkedin.com/in/pratheesh-satheesh-kumar/)
 
-**Read my article in medium.com.**
+**Read my articles in medium.com.**
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yespratheesh/0" alt="Recent Article 0">
 
